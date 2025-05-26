@@ -24,11 +24,8 @@ A continuación se muestra una gráfica comparativa del **tiempo de ejecución**
 ### ⏱️ Tiempos de ejecución (ejemplo)
 
 | 25 elementos | 1000 elementos |
-|--------------------------|------------------------------------------|
 |<div align="center"> ![image](https://github.com/user-attachments/assets/708d97f4-c20b-481a-8e56-c10f1fe6de16) | <div align="center"> ![image](https://github.com/user-attachments/assets/4ef4a3a0-feea-42ed-ba6a-75ff413ec034) |
-|--------------------------|------------------------------------------|
 |<div align="center"> ![image](https://github.com/user-attachments/assets/fc4f558c-cc5a-47fc-9b88-b6222a3f6a36) |  <div align="center"> ![image](https://github.com/user-attachments/assets/3c84451a-ca2a-4132-a2cf-1b622496ad80) |
-|--------------------------|------------------------------------------|
 
 ---
 
